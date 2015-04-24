@@ -1,7 +1,7 @@
 # classify
 
-Classification.ipynb = iPython notebook
-Classification.py = python source version of above
+*Classification.ipynb = iPython notebook
+*Classification.py = python source version of above
 
-json = data
-pickles = state saves to speed up .py code
+*json = data
+*pickles = state saves to speed up .py code
